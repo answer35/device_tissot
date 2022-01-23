@@ -1,8 +1,8 @@
 #
-# Copyright (C) 2017-2021 The LineageOS Project
+# Copyright (C) 2022 Project Awaken
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tissot.mk
+    $(LOCAL_DIR)/awaken_tissot.mk
